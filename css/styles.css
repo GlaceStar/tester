@@ -1,0 +1,275 @@
+body{background: #B20700; max-height: 100%; max-width: 100%;}
+
+.video{
+    height:95%; width:100%;
+    align-content: center;
+}
+
+.image{
+    align-self: middle;
+    width:100%;
+}
+
+.imag{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table{
+    width: 100%; height: 100%;
+}
+
+a{
+    color:black;
+}
+a:hover{
+    color:white;
+}
+
+.bck{
+display: none;
+}
+
+.he{
+    background:url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2000px-International_Pok%C3%A9mon_logo.svg.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: contain;
+    border-style:inset;
+    height:29.5%;
+    width:100%;
+}
+
+.le{
+	text-align:center;
+	float:left;
+	background-image: url(https://scontent.fntr6-2.fna.fbcdn.net/v/t1.0-9/52602899_1015269541996196_6369807915854856192_n.jpg?_nc_cat=104&_nc_ht=scontent.fntr6-2.fna&oh=9267be7c539a537692f4278c484a8ecb&oe=5CE69592);
+	background-size: 70% 100%;
+	background-position: center;
+	border-style:outset;
+	margin-right:5px;
+	margin-color: #fff;
+	height: 70%; width: 24%; 
+}
+
+.ce{
+    float:left;
+	background-position:center;
+	height: 70%; width: 49%; 
+}
+
+.ri{
+    text-align: center;
+	float:left;
+	background-image: url(https://scontent.fntr6-2.fna.fbcdn.net/v/t1.0-9/52602899_1015269541996196_6369807915854856192_n.jpg?_nc_cat=104&_nc_ht=scontent.fntr6-2.fna&oh=9267be7c539a537692f4278c484a8ecb&oe=5CE69592);
+	background-size: 70% 100%;
+	background-position: center;
+	border-style:outset;
+	margin-left: 5px;
+	margin-color: #fff;
+	height: 70%; width:25%; 
+
+}
+
+.tag{
+font-family: power clear; 
+src: url(pkmndp.ttf) format('woff');
+font-weight: normal;
+font:20px;
+color: white; 	
+}
+
+.tagl{
+ font-family: power clear; font-size: 20px;
+ src: url(pkmndp.ttf) format('woff');
+ font-weight: normal;
+ color: black; 
+ background-color:red; 
+}
+
+.shop{
+ font-family: power clear; font-size: 20px;
+ src: url(pkmndp.ttf) format('woff');
+ font-weight: normal;       
+ color: black; 
+ align-self: center;
+ background-color:red; 
+}
+
+.shopt{
+ font-family: power clear; font-size: 20px;
+ src: url(pkmndp.ttf) format('woff');
+ font-weight: normal;       
+ color: black; 
+ align-self: center;
+ background-color:red;
+ border:1px; 
+}
+
+.forma{
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color:white;
+}
+
+.kanto{
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color: black;
+    background-color:#ff0000;
+}
+
+.johto{
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color: black;
+    background-color:#ff6a00;
+}
+
+.hoenn{
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color: black;
+    background-color:#ffd800;
+}
+
+.sinnoh{
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color: black;
+    background-color:#b6ff00;
+}
+
+.unova{
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color: black;
+    background-color:#0094ff;
+}
+
+.kalos{
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color: black;
+    background-color:#0026ff;
+}
+
+.alola{
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color: black;
+    background-color:#b200ff;
+}
+
+.galar{  
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color: black;
+    background-color:#f76cbd;
+}
+
+.log span{
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    color: black;
+    background-color:#04C668;
+}
+
+
+
+
+
+
+
+
+#inputcarro {
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    border:1px inset rgb(255,255,255);
+    width: 40px;
+    background:rgb(255,255,255);
+    text-align : center;
+    color=white;
+    }
+
+#inputs {
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    border:1px inset rgb(255,255,255);
+    width: 280px;
+    text-align : center;
+        }
+
+
+
+
+
+#boton  {
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    background: rgb(255,255,255) border:1px outset rgb(255,255,255);
+    width:80px;
+ 
+    }
+
+    div.marco {
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    border:2px groove rgb(255,255,255);
+    width: 750px; 
+    padding:15px}
+    
+    div.marco2 {
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    border:2px groove rgb(255,255,255);
+    width: 700px;
+    padding:15px
+    }
+    
+    p.texto {
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    font-size:30px;
+    color:white;
+    }
+    
+
+    span.label {
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    font-size:15px;
+    width:150px;
+    vertical-align:top;
+    color:white;
+    float:left
+    }
+
+    div {
+    font-family: power clear;
+    src: url(pkmndp.ttf) format('woff');
+    font-weight: normal;
+    margin-top:15px
+    }
+
+
+
+
